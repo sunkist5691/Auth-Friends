@@ -1,0 +1,9 @@
+.friends___list {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.friends___list p {
+   margin-top: 5%;
+}

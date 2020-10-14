@@ -1,0 +1,12 @@
+.app .navigation {
+   display: flex;
+   justify-content: flex-end;
+}
+
+.app .navigation a {
+   margin: 1% 2%;
+   text-decoration: none;
+   font-size: 1.2rem;
+   font-weight: 600;
+   color: black;
+}
